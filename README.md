@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=uyyoq&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
 </p>
+   <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyyoq&theme=react&line_height=40&hide=css"/>
+    </a>

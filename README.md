@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 * 👯 I want to collaborate on a Basic Web Development project
 * 📫 How to reach me [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](trysniyuni@gmail.com)
 * 💬 Ask me about everything and anything :laughing:
-<br/>
+
+---
 
 ## Languages and Tools 🛠 
 
@@ -22,7 +23,8 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
 </div>
 
-<br />
+---
+
 ## Github Statistics 📈
   
   <div align="center"> 

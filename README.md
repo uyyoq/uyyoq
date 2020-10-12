@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5">
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascrip">
+  <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032"/>
 </div>
 
 <br/>

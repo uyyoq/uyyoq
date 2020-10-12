@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 * 💬 Ask me about everything and anything :laughing:
 <br/>
 
-<h2>Languages and Tools: </h2>
+<h2>Languages and Tools 🛠  </h2>
 
 <div display="flex">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">

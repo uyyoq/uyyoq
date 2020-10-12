@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 * 🔭 I am currently trying to be better
 * 🌱 I am currently learning about Javascript | React.js | Next.js
 * 👯 I want to collaborate on a Basic Web Development project
-* 📫 How to reach me [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](trysniyuni@gmail.com)
+* 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=trysniyuni@gmail.com)](trysniyuni@gmail.com)
 * 💬 Ask me about everything and anything :laughing:
 
 ---

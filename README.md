@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 * 🔭 I am currently trying to be better
 * 🌱 I am currently learning about Javascript | React.js | Next.js
 * 👯 I want to collaborate on a Basic Web Development project
-* 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=trysniyuni@gmail.com)](trysniyuni@gmail.com)
+* 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=trysniyuni@gmail.com)](trysniyuni@gmail.com) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6285156074346&text=Try_sni)](https://api.whatsapp.com/send?phone=+6285156074346&text=Try_sni)
 * 💬 Ask me about everything and anything :laughing:
 
 ---

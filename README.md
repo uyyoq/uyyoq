@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" width="500px" height="200px"></div>
+<div align="center"><img src="https://media.giphy.com/media/3o7GUxU5qfJiM2VVw4/giphy.gif" width="500px" height="200px"></div>
 
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Trysni Yuni
 
